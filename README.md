@@ -2,7 +2,7 @@
 
 ## Basic
 
-This implementation of the Transformer model as described in the [Attention is All You Need](https://arxiv.org/abs/1706.03762) paper. Based on the code provided by the Tensorflow offical [code](https://github.com/tensorflow/tensor2tensor/blob/master/tensor2tensor/models/transformer.py).
+This implementation of the Transformer model as described in the [Attention is All You Need](https://arxiv.org/abs/1706.03762) paper. Based on the code provided by the Tensorflow offical [code](https://github.com/tensorflow/models/blob/master/official/transformer).
 
 We don't cover **Beam Search** in our implementation. Our code is only a tool 
 for learning Transformer model, not for achieve the state-of-the-art performance.
